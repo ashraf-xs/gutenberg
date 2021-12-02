@@ -1,0 +1,5 @@
+h2:hover {
+    background-color:var(--heading_titleColor);
+}
+
+.mobile-hidden{ display: none }

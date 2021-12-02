@@ -1,0 +1,29 @@
+{
+  "name": "gutenberg-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashraf-xs/gutenberg-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashraf-xs/gutenberg-test/issues"
+  },
+  "homepage": "https://github.com/ashraf-xs/gutenberg-test#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^19.2.2"
+  },
+  "dependencies": {
+    "@wordpress/blocks": "^11.1.4",
+    "@wordpress/i18n": "^4.2.4",
+    "antd": "^4.17.2"
+  }
+}
